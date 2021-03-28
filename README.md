@@ -23,3 +23,8 @@ Stuck at a codechef problem...want to refer a solution but confused among such a
 
 #### Searching with best Time or Space complexity
 `python3 scrape.py -u "<URL HERE>" -s Mem`
+
+<br>
+
+### RESULTS
+<img src="./fin_res.png" alt="Final Results"/>
