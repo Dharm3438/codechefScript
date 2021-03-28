@@ -27,4 +27,4 @@ Stuck at a codechef problem...want to refer a solution but confused among such a
 <br>
 
 ### RESULTS
-<img src="./fin_res.png" alt="Final Results"/>
+<img src="./final_res.png" alt="Final Results"/>
